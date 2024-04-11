@@ -1,2 +1,2 @@
 # Jogo-no-Construct3-Prova
-Prova do Primeiro Bimestre professor Marcio
+Neste jogo você deve sobreviver o maximo de tempo e fazer uma ótima pontuação 
